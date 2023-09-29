@@ -1,4 +1,4 @@
-![image](https://github.com/Jeevithaelumalai/EDGEDETECTION/assets/118708245/508f6c1e-b637-41fc-bb7b-72f34fcd016c)![image](https://github.com/Jeevithaelumalai/EDGEDETECTION/assets/118708245/267258df-721e-4826-943d-e659c6e77231)# EDGEDETECTION
+# EDGEDETECTION
 
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
