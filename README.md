@@ -125,7 +125,8 @@ plt.show()
 
 
 ### CANNY EDGE DETECTOR
-![image](https://github.com/Jeevithaelumalai/EDGEDETECTION/assets/118708245/699d58bc-8256-40c8-be89-92cee69ddcd5)
+![image](https://github.com/Jeevithaelumalai/EDGEDETECTION/assets/118708245/cd6462d8-f91b-410c-9d94-30daf91ceb33)
+
 
 
 ## Result:
